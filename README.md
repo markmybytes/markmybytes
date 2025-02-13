@@ -1,6 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superdumbtm&layout=compact)](https://github.com/superdumbtm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markmybytes&layout=compact)](https://github.com/markmybytes/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superdumbtm)](https://github.com/superdumbtm/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=markmybytes)](https://github.com/markmybytes/github-readme-stats)
 
 ## Languages
 <p align="left">
@@ -28,7 +28,7 @@
 </p>
 
 <!--
-**SuperDumbTM/SuperDumbTm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**markmybytes/markmybytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
